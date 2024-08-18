@@ -43,9 +43,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": -385.2679703072263,
-			"y": 244.65962273531625,
-			"lastActivityTimestamp": 1723942255824,
+			"x": 686.6259610119839,
+			"y": 1067.4924719298303,
+			"lastActivityTimestamp": 1723914510633,
 			"meta": {}
 		},
 		{
@@ -90,7 +90,7 @@
 			"isFocused": true,
 			"devicePixelRatio": 1.5,
 			"isCoarsePointer": false,
-			"isHoveringCanvas": false,
+			"isHoveringCanvas": true,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
@@ -114,8 +114,8 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 720.4530766123788,
-			"y": -170.17404133655023,
+			"x": 727.4362062128785,
+			"y": -480.9185358958134,
 			"z": 0.5728178143607705,
 			"meta": {},
 			"id": "camera:page:page",
